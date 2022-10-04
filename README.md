@@ -9,7 +9,6 @@ The ERC4907 Minting contract repository contains a smart contracts that, when de
 npm i hardhat
 npm i @nomiclabs/hardhat-ethers
 npm i dotenv
-npm i hardhat
 npm i @nomiclabs/hardhat-etherscan
 npm i chai
 npm i @nomiclabs/hardhat-truffle5
